@@ -1,0 +1,38 @@
+name: BOE daily fetch
+
+on:
+  schedule:
+    - cron: '0 8 * * 1-6'  # 8:00 UTC = 5:00 Argentina = 10:00 Madrid
+  workflow_dispatch:        # permite correrlo a mano desde GitHub
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch BOE sumario
+        run: |
+          DATE=$(date +%Y%m%d)
+          RESPONSE=$(curl -s -w "\n%{http_code}" \
+            "https://boe.es/datosabiertos/api/boe/sumario/$DATE" \
+            -H "Accept: application/json")
+          HTTP_CODE=$(echo "$RESPONSE" | tail -1)
+          BODY=$(echo "$RESPONSE" | head -n -1)
+
+          if [ "$HTTP_CODE" = "200" ]; then
+            echo "$BODY" > sumario-$DATE.json
+            cp sumario-$DATE.json latest.json
+            echo "DATE=$DATE" >> $GITHUB_ENV
+          else
+            echo "El BOE devolvió HTTP $HTTP_CODE para la fecha $DATE"
+            exit 1
+          fi
+
+      - name: Commit
+        run: |
+          git config user.email "bot@github.com"
+          git config user.name "BOE Bot"
+          git add latest.json sumario-${{ env.DATE }}.json
+          git commit -m "BOE ${{ env.DATE }}" || echo "Sin cambios"
+          git push
