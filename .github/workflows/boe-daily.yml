@@ -13,21 +13,29 @@ jobs:
 
       - name: Fetch BOE sumario
         run: |
-          DATE=$(date +%Y%m%d)
-          RESPONSE=$(curl -s -w "\n%{http_code}" \
-            "https://boe.es/datosabiertos/api/boe/sumario/$DATE" \
-            -H "Accept: application/json")
-          HTTP_CODE=$(echo "$RESPONSE" | tail -1)
-          BODY=$(echo "$RESPONSE" | head -n -1)
+          # Intenta con hoy, si da 404 prueba con días anteriores
+          for OFFSET in 0 1 2; do
+            DATE=$(date -d "-$OFFSET days" +%Y%m%d)
+            echo "Intentando fecha: $DATE"
+            RESPONSE=$(curl -s -w "\n%{http_code}" \
+              "https://boe.es/datosabiertos/api/boe/sumario/$DATE" \
+              -H "Accept: application/json")
+            HTTP_CODE=$(echo "$RESPONSE" | tail -1)
+            BODY=$(echo "$RESPONSE" | head -n -1)
 
-          if [ "$HTTP_CODE" = "200" ]; then
-            echo "$BODY" > sumario-$DATE.json
-            cp sumario-$DATE.json latest.json
-            echo "DATE=$DATE" >> $GITHUB_ENV
-          else
-            echo "El BOE devolvió HTTP $HTTP_CODE para la fecha $DATE"
-            exit 1
-          fi
+            if [ "$HTTP_CODE" = "200" ]; then
+              echo "$BODY" > sumario-$DATE.json
+              cp sumario-$DATE.json latest.json
+              echo "DATE=$DATE" >> $GITHUB_ENV
+              echo "Sumario $DATE descargado OK"
+              exit 0
+            else
+              echo "HTTP $HTTP_CODE para $DATE, probando día anterior..."
+            fi
+          done
+
+          echo "No se encontró BOE en los últimos 3 días"
+          exit 1
 
       - name: Commit
         run: |
