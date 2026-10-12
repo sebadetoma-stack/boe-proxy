@@ -1,0 +1,1645 @@
+{
+    "status": {
+        "code": "200",
+        "text": "ok"
+    },
+    "data": {
+        "sumario": {
+            "metadatos": {
+                "publicacion": "BOE",
+                "fecha_publicacion": "20261012"
+            },
+            "diario": [
+                {
+                    "numero": "253",
+                    "sumario_diario": {
+                        "identificador": "BOE-S-2026-253",
+                        "url_pdf": {
+                            "szBytes": "303204",
+                            "szKBytes": "296",
+                            "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-S-2026-253.pdf"
+                        }
+                    },
+                    "seccion": [
+                        {
+                            "codigo": "1",
+                            "nombre": "I. Disposiciones generales",
+                            "departamento": [
+                                {
+                                    "codigo": "9562",
+                                    "nombre": "MINISTERIO DE ASUNTOS EXTERIORES, UNI\u00d3N EUROPEA Y COOPERACI\u00d3N",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Acuerdos internacionales administrativos",
+                                            "item": {
+                                                "identificador": "BOE-A-2026-21165",
+                                                "control": "2026\/15593",
+                                                "titulo": "Acuerdo internacional administrativo entre el Ministerio de Educaci\u00f3n, Formaci\u00f3n Profesional y Deportes del Reino de Espa\u00f1a y las Escuelas Europeas para regular la implantaci\u00f3n y financiaci\u00f3n del catal\u00e1n como otra lengua nacional (ONL) en el Sistema de Escuelas Europeas, hecho en Bruselas y Madrid el 27 y 31 de agosto de 2026.",
+                                                "url_pdf": {
+                                                    "szBytes": "223810",
+                                                    "szKBytes": "219",
+                                                    "pagina_inicial": "135576",
+                                                    "pagina_final": "135580",
+                                                    "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21165.pdf"
+                                                },
+                                                "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21165",
+                                                "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21165"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9586",
+                                    "nombre": "MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Organizaci\u00f3n",
+                                            "item": {
+                                                "identificador": "BOE-A-2026-21166",
+                                                "control": "2026\/15640",
+                                                "titulo": "Orden TRM\/1072\/2026, de 30 de septiembre, por la que se regulan el \u00e1mbito de actuaci\u00f3n y las funciones de la Subdirecci\u00f3n General de Control de Calidad e Inspecci\u00f3n T\u00e9cnica.",
+                                                "url_pdf": {
+                                                    "szBytes": "261285",
+                                                    "szKBytes": "255",
+                                                    "pagina_inicial": "135581",
+                                                    "pagina_final": "135592",
+                                                    "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21166.pdf"
+                                                },
+                                                "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21166",
+                                                "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21166"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9590",
+                                    "nombre": "MINISTERIO DE EDUCACI\u00d3N, FORMACI\u00d3N PROFESIONAL Y DEPORTES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Formaci\u00f3n profesional",
+                                            "item": {
+                                                "identificador": "BOE-A-2026-21167",
+                                                "control": "2026\/15500",
+                                                "titulo": "Orden EFD\/1073\/2026, de 5 de octubre, por la que se actualizan determinados est\u00e1ndares de competencias profesionales de las familias profesionales Agraria; Artes Gr\u00e1ficas; Artes y Artesan\u00edas; Energ\u00eda y Agua; Edificaci\u00f3n y Obra Civil; Fabricaci\u00f3n Mec\u00e1nica; Industrias Alimentarias; Madera, Mueble y Corcho; Qu\u00edmica; Textil, Confecci\u00f3n y Piel; y Vidrio y Cer\u00e1mica recogidos en el Cat\u00e1logo Nacional de Est\u00e1ndares de Competencias Profesionales.",
+                                                "url_pdf": {
+                                                    "szBytes": "3483849",
+                                                    "szKBytes": "3402",
+                                                    "pagina_inicial": "135593",
+                                                    "pagina_final": "135962",
+                                                    "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21167.pdf"
+                                                },
+                                                "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21167",
+                                                "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21167"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "codigo": "2A",
+                            "nombre": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias",
+                            "departamento": [
+                                {
+                                    "codigo": "1820",
+                                    "nombre": "CONSEJO GENERAL DEL PODER JUDICIAL",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Destinos",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2026-21168",
+                                                    "control": "2026\/15322",
+                                                    "titulo": "Acuerdo de 30 de septiembre de 2026, del Pleno del Consejo General del Poder Judicial, por el que se resuelve el concurso, convocado por Acuerdo de 23 de junio de 2026, de la Comisi\u00f3n Permanente, en el Servicio del Promotor de la Acci\u00f3n Disciplinaria.",
+                                                    "url_pdf": {
+                                                        "szBytes": "192609",
+                                                        "szKBytes": "188",
+                                                        "pagina_inicial": "135963",
+                                                        "pagina_final": "135963",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21168.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21168",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21168"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2026-21169",
+                                                    "control": "2026\/15323",
+                                                    "titulo": "Acuerdo de 30 de septiembre de 2026, del Pleno del Consejo General del Poder Judicial, por el que se resuelve el concurso, convocado por Acuerdo de 30 de junio de 2026, de la Comisi\u00f3n Permanente, en la Escuela Judicial.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191759",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "135964",
+                                                        "pagina_final": "135964",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21169.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21169",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21169"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "nombre": "Situaciones",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2026-21170",
+                                                    "control": "2026\/13765",
+                                                    "titulo": "Acuerdo de 7 de julio de 2026, de la Comisi\u00f3n Permanente del Consejo General del Poder Judicial, por el que se declara la jubilaci\u00f3n forzosa de la Magistrada do\u00f1a Mar\u00eda del Pilar Robles Garc\u00eda.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191209",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "135965",
+                                                        "pagina_final": "135965",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21170.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21170",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21170"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2026-21171",
+                                                    "control": "2026\/13766",
+                                                    "titulo": "Acuerdo de 7 de julio de 2026, de la Comisi\u00f3n Permanente del Consejo General del Poder Judicial, por el que se declara la jubilaci\u00f3n forzosa de la Magistrada do\u00f1a Susana Salvador Guti\u00e9rrez.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191457",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "135966",
+                                                        "pagina_final": "135966",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21171.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21171",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21171"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "7320",
+                                    "nombre": "MINISTERIO DEL INTERIOR",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Nombramientos",
+                                            "item": {
+                                                "identificador": "BOE-A-2026-21172",
+                                                "control": "2026\/15389",
+                                                "titulo": "Resoluci\u00f3n de 18 de septiembre de 2026, de la Secretar\u00eda de Estado de Seguridad, por la que se nombra personal funcionario de carrera de la Polic\u00eda Nacional, Escala B\u00e1sica, categor\u00eda de Polic\u00eda, a los\/as Polic\u00edas Alumnos\/as, que han superado el proceso selectivo establecido reglamentariamente.",
+                                                "url_pdf": {
+                                                    "szBytes": "204776",
+                                                    "szKBytes": "200",
+                                                    "pagina_inicial": "135967",
+                                                    "pagina_final": "135969",
+                                                    "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21172.pdf"
+                                                },
+                                                "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21172",
+                                                "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21172"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9579",
+                                    "nombre": "MINISTERIO DE INCLUSI\u00d3N, SEGURIDAD SOCIAL Y MIGRACIONES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Destinos",
+                                            "item": {
+                                                "identificador": "BOE-A-2026-21173",
+                                                "control": "2026\/15504",
+                                                "titulo": "Resoluci\u00f3n de 2 de octubre de 2026, de la Subsecretar\u00eda, por la que se resuelve el concurso espec\u00edfico convocado por Resoluci\u00f3n de 7 de mayo de 2026.",
+                                                "url_pdf": {
+                                                    "szBytes": "520214",
+                                                    "szKBytes": "508",
+                                                    "pagina_inicial": "135970",
+                                                    "pagina_final": "135979",
+                                                    "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21173.pdf"
+                                                },
+                                                "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21173",
+                                                "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21173"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "310",
+                                    "nombre": "UNIVERSIDADES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Nombramientos",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2026-21174",
+                                                    "control": "2026\/15445",
+                                                    "titulo": "Resoluci\u00f3n de 29 de septiembre de 2026, de la Universidad Rovira i Virgili, por la que se nombra personal funcionario de cuerpos docentes universitarios.",
+                                                    "url_pdf": {
+                                                        "szBytes": "192978",
+                                                        "szKBytes": "188",
+                                                        "pagina_inicial": "135980",
+                                                        "pagina_final": "135980",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21174.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21174",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21174"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2026-21175",
+                                                    "control": "2026\/15446",
+                                                    "titulo": "Resoluci\u00f3n de 29 de septiembre de 2026, de la Universidad Rovira i Virgili, por la que se nombra Profesora Titular de Universidad a do\u00f1a Esther Guerrero Vizuete.",
+                                                    "url_pdf": {
+                                                        "szBytes": "192756",
+                                                        "szKBytes": "188",
+                                                        "pagina_inicial": "135981",
+                                                        "pagina_final": "135981",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21175.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21175",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21175"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2026-21176",
+                                                    "control": "2026\/15338",
+                                                    "titulo": "Resoluci\u00f3n de 1 de octubre de 2026, de la Universidad de Alicante, por la que se nombra Profesora Titular de Universidad a do\u00f1a Mar\u00eda Josefa Hern\u00e1ndez Amor\u00f3s.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191627",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "135982",
+                                                        "pagina_final": "135982",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21176.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21176",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21176"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2026-21177",
+                                                    "control": "2026\/15392",
+                                                    "titulo": "Resoluci\u00f3n de 2 de octubre de 2026, de la Universidad de Granada, por la que se nombran Catedr\u00e1ticos de Universidad.",
+                                                    "url_pdf": {
+                                                        "szBytes": "194613",
+                                                        "szKBytes": "190",
+                                                        "pagina_inicial": "135983",
+                                                        "pagina_final": "135983",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21177.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21177",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21177"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2026-21178",
+                                                    "control": "2026\/15447",
+                                                    "titulo": "Resoluci\u00f3n de 2 de octubre de 2026, de la Universidad de Alicante, por la que se nombra Profesor Titular de Universidad a don Carlos Sabater Piqueres.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191208",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "135984",
+                                                        "pagina_final": "135984",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21178.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21178",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21178"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2026-21179",
+                                                    "control": "2026\/15448",
+                                                    "titulo": "Resoluci\u00f3n de 2 de octubre de 2026, de la Universidad de Alicante, por la que se nombra Profesora Titular de Universidad a do\u00f1a Carolina Soler Garc\u00eda.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191482",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "135985",
+                                                        "pagina_final": "135985",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21179.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21179",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21179"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2026-21180",
+                                                    "control": "2026\/15449",
+                                                    "titulo": "Resoluci\u00f3n de 2 de octubre de 2026, de la Universidad de Granada, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+                                                    "url_pdf": {
+                                                        "szBytes": "210293",
+                                                        "szKBytes": "205",
+                                                        "pagina_inicial": "135986",
+                                                        "pagina_final": "135987",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21180.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21180",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21180"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2026-21181",
+                                                    "control": "2026\/15450",
+                                                    "titulo": "Resoluci\u00f3n de 2 de octubre de 2026, de la Universidad de Le\u00f3n, por la que se nombra Profesora Titular de Universidad a do\u00f1a Sara Mayo Prieto.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191679",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "135988",
+                                                        "pagina_final": "135988",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21181.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21181",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21181"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "codigo": "2B",
+                            "nombre": "II. Autoridades y personal. - B. Oposiciones y concursos",
+                            "departamento": [
+                                {
+                                    "codigo": "9585",
+                                    "nombre": "MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Procedimientos de libre designaci\u00f3n",
+                                            "item": {
+                                                "identificador": "BOE-A-2026-21182",
+                                                "control": "2026\/15512",
+                                                "titulo": "Orden PJC\/1074\/2026, de 5 de octubre, por la que se convoca la provisi\u00f3n de puestos de trabajo por el sistema de libre designaci\u00f3n, para el Cuerpo de Letrados de la Administraci\u00f3n de Justicia.",
+                                                "url_pdf": {
+                                                    "szBytes": "247156",
+                                                    "szKBytes": "241",
+                                                    "pagina_inicial": "135989",
+                                                    "pagina_final": "135992",
+                                                    "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21182.pdf"
+                                                },
+                                                "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21182",
+                                                "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21182"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "4110",
+                                    "nombre": "MINISTERIO DE CULTURA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Personal laboral",
+                                            "item": {
+                                                "identificador": "BOE-A-2026-21183",
+                                                "control": "2026\/15453",
+                                                "titulo": "Resoluci\u00f3n de 2 de octubre de 2026, de la Subdirecci\u00f3n de Gerencia del Museo Nacional Centro de Arte Reina Sof\u00eda, por la que se convoca proceso selectivo para ingreso, por el sistema de acceso libre, como personal laboral fijo, fuera de convenio.",
+                                                "url_pdf": {
+                                                    "szBytes": "327153",
+                                                    "szKBytes": "319",
+                                                    "pagina_inicial": "135993",
+                                                    "pagina_final": "136011",
+                                                    "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21183.pdf"
+                                                },
+                                                "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21183",
+                                                "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21183"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9589",
+                                    "nombre": "MINISTERIO DE ECONOM\u00cdA, COMERCIO Y EMPRESA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Procedimientos de libre designaci\u00f3n",
+                                            "item": {
+                                                "identificador": "BOE-A-2026-21184",
+                                                "control": "2026\/15720",
+                                                "titulo": "Resoluci\u00f3n de 5 de octubre de 2026, de la Subsecretar\u00eda, por la que se convoca la provisi\u00f3n de puestos de trabajo por el sistema de libre designaci\u00f3n.",
+                                                "url_pdf": {
+                                                    "szBytes": "293779",
+                                                    "szKBytes": "287",
+                                                    "pagina_inicial": "136012",
+                                                    "pagina_final": "136017",
+                                                    "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21184.pdf"
+                                                },
+                                                "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21184",
+                                                "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21184"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "4335",
+                                    "nombre": "MINISTERIO DE SANIDAD",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Procedimientos de libre designaci\u00f3n",
+                                            "item": {
+                                                "identificador": "BOE-A-2026-21185",
+                                                "control": "2026\/15454",
+                                                "titulo": "Resoluci\u00f3n de 2 de octubre de 2026, de la Subsecretar\u00eda, por la que se convoca la provisi\u00f3n de puesto de trabajo por el sistema de libre designaci\u00f3n.",
+                                                "url_pdf": {
+                                                    "szBytes": "250841",
+                                                    "szKBytes": "245",
+                                                    "pagina_inicial": "136018",
+                                                    "pagina_final": "136021",
+                                                    "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21185.pdf"
+                                                },
+                                                "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21185",
+                                                "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21185"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9579",
+                                    "nombre": "MINISTERIO DE INCLUSI\u00d3N, SEGURIDAD SOCIAL Y MIGRACIONES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Procedimientos de libre designaci\u00f3n",
+                                            "item": {
+                                                "identificador": "BOE-A-2026-21186",
+                                                "control": "2026\/15516",
+                                                "titulo": "Resoluci\u00f3n de 2 de octubre de 2026, de la Subsecretar\u00eda, por la que se convoca la provisi\u00f3n de puestos de trabajo por el sistema de libre designaci\u00f3n.",
+                                                "url_pdf": {
+                                                    "szBytes": "267519",
+                                                    "szKBytes": "261",
+                                                    "pagina_inicial": "136022",
+                                                    "pagina_final": "136026",
+                                                    "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21186.pdf"
+                                                },
+                                                "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21186",
+                                                "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21186"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9525",
+                                    "nombre": "ADMINISTRACI\u00d3N LOCAL",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Personal funcionario y laboral",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2026-21187",
+                                                    "control": "2026\/105559",
+                                                    "titulo": "Resoluci\u00f3n de 29 de septiembre de 2026, del Ayuntamiento de Alhama de Murcia (Murcia), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190360",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "136027",
+                                                        "pagina_final": "136027",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21187.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21187",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21187"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2026-21188",
+                                                    "control": "2026\/105555",
+                                                    "titulo": "Resoluci\u00f3n de 6 de octubre de 2026, del Ayuntamiento de Las Palmas de Gran Canaria (Las Palmas), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190419",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "136028",
+                                                        "pagina_final": "136028",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21188.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21188",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21188"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2026-21189",
+                                                    "control": "2026\/105557",
+                                                    "titulo": "Resoluci\u00f3n de 6 de octubre de 2026, del Cabildo Insular de Fuerteventura (Las Palmas), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191467",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "136029",
+                                                        "pagina_final": "136029",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21189.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21189",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21189"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2026-21190",
+                                                    "control": "2026\/105560",
+                                                    "titulo": "Resoluci\u00f3n de 6 de octubre de 2026, del Ayuntamiento de Elx\/Elche (Alicante\/Alacant), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "189998",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "136030",
+                                                        "pagina_final": "136030",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21190.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21190",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21190"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2026-21191",
+                                                    "control": "2026\/105561",
+                                                    "titulo": "Resoluci\u00f3n de 6 de octubre de 2026, del Ayuntamiento de Xeraco (Valencia\/Val\u00e8ncia), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190863",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "136031",
+                                                        "pagina_final": "136031",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21191.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21191",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21191"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2026-21192",
+                                                    "control": "2026\/105562",
+                                                    "titulo": "Resoluci\u00f3n de 6 de octubre de 2026, del Ayuntamiento de Vilafranca de Bonany (Illes Balears), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190053",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "136032",
+                                                        "pagina_final": "136032",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21192.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21192",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21192"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2026-21193",
+                                                    "control": "2026\/105563",
+                                                    "titulo": "Resoluci\u00f3n de 6 de octubre de 2026, del Ayuntamiento de Collado Mediano (Madrid), referente a la convocatoria para proveer varias plazas.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190251",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "136033",
+                                                        "pagina_final": "136033",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21193.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21193",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21193"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2026-21194",
+                                                    "control": "2026\/105564",
+                                                    "titulo": "Resoluci\u00f3n de 6 de octubre de 2026, del Ayuntamiento de Sant Fruit\u00f3s de Bages (Barcelona), referente a la convocatoria para proveer una plaza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "190910",
+                                                        "szKBytes": "186",
+                                                        "pagina_inicial": "136034",
+                                                        "pagina_final": "136034",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21194.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21194",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21194"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "310",
+                                    "nombre": "UNIVERSIDADES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Cuerpos docentes universitarios",
+                                            "item": {
+                                                "identificador": "BOE-A-2026-21195",
+                                                "control": "2026\/15518",
+                                                "titulo": "Resoluci\u00f3n de 5 de octubre de 2026, de la Universidad de M\u00e1laga, por la que se corrigen errores en la de 8 de julio de 2026, por la que se convoca concurso de acceso a plazas de cuerpos docentes universitarios.",
+                                                "url_pdf": {
+                                                    "szBytes": "193390",
+                                                    "szKBytes": "189",
+                                                    "pagina_inicial": "136035",
+                                                    "pagina_final": "136035",
+                                                    "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21195.pdf"
+                                                },
+                                                "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21195",
+                                                "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21195"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Personal t\u00e9cnico, de gesti\u00f3n y de administraci\u00f3n y servicios",
+                                            "item": {
+                                                "identificador": "BOE-A-2026-21196",
+                                                "control": "2026\/15519",
+                                                "titulo": "Resoluci\u00f3n de 5 de octubre de 2026, de la Universidad de Granada, por la que se convoca proceso selectivo para ingreso, por el sistema general de acceso libre, en la Escala Auxiliar de Servicios Generales, para personas con discapacidad intelectual.",
+                                                "url_pdf": {
+                                                    "szBytes": "247659",
+                                                    "szKBytes": "242",
+                                                    "pagina_inicial": "136036",
+                                                    "pagina_final": "136045",
+                                                    "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21196.pdf"
+                                                },
+                                                "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21196",
+                                                "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21196"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "codigo": "3",
+                            "nombre": "III. Otras disposiciones",
+                            "departamento": [
+                                {
+                                    "codigo": "9562",
+                                    "nombre": "MINISTERIO DE ASUNTOS EXTERIORES, UNI\u00d3N EUROPEA Y COOPERACI\u00d3N",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Comunidad Aut\u00f3noma de Galicia. Convenio",
+                                            "item": {
+                                                "identificador": "BOE-A-2026-21197",
+                                                "control": "2026\/15729",
+                                                "titulo": "Resoluci\u00f3n de 5 de octubre de 2026, de la Direcci\u00f3n de la Agencia Espa\u00f1ola de Cooperaci\u00f3n Internacional para el Desarrollo, por la que se publica el Convenio con la Universidad de A Coru\u00f1a, para la gesti\u00f3n, apoyo t\u00e9cnico y capacitaci\u00f3n en el \u00e1mbito de la planificaci\u00f3n del saneamiento y drenaje sostenible en el estado plurinacional de Bolivia (segunda fase).",
+                                                "url_pdf": {
+                                                    "szBytes": "296421",
+                                                    "szKBytes": "289",
+                                                    "pagina_inicial": "136046",
+                                                    "pagina_final": "136057",
+                                                    "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21197.pdf"
+                                                },
+                                                "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21197",
+                                                "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21197"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Convenios",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2026-21198",
+                                                    "control": "2026\/15522",
+                                                    "titulo": "Resoluci\u00f3n de 30 de septiembre de 2026, de la Direcci\u00f3n de la Agencia Espa\u00f1ola de Cooperaci\u00f3n Internacional para el Desarrollo, por la que se publica el Convenio con M\u00e9dicos del Mundo Espa\u00f1a, para la respuesta coordinada ante emergencias humanitarias.",
+                                                    "url_pdf": {
+                                                        "szBytes": "231774",
+                                                        "szKBytes": "226",
+                                                        "pagina_inicial": "136058",
+                                                        "pagina_final": "136064",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21198.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21198",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21198"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2026-21199",
+                                                    "control": "2026\/15661",
+                                                    "titulo": "Resoluci\u00f3n de 6 de octubre de 2026, de la Secretar\u00eda General T\u00e9cnica, por la que se publica el Convenio entre la Embajada de Espa\u00f1a en Filipinas y PLDT Inc., para la celebraci\u00f3n de la Fiesta Nacional de Espa\u00f1a.",
+                                                    "url_pdf": {
+                                                        "szBytes": "223547",
+                                                        "szKBytes": "218",
+                                                        "pagina_inicial": "136065",
+                                                        "pagina_final": "136069",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21199.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21199",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21199"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9585",
+                                    "nombre": "MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Comunidad Aut\u00f3noma de Catalu\u00f1a. Convenio",
+                                            "item": {
+                                                "identificador": "BOE-A-2026-21200",
+                                                "control": "2026\/15730",
+                                                "titulo": "Resoluci\u00f3n de 28 de septiembre de 2026, del Centro de Estudios Jur\u00eddicos, O.A., por la que se publica el Convenio con la Universidad de Girona, para la realizaci\u00f3n de un curso de especializaci\u00f3n en justicia restaurativa.",
+                                                "url_pdf": {
+                                                    "szBytes": "238593",
+                                                    "szKBytes": "233",
+                                                    "pagina_inicial": "136070",
+                                                    "pagina_final": "136076",
+                                                    "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21200.pdf"
+                                                },
+                                                "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21200",
+                                                "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21200"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Comunidad Aut\u00f3noma de Extremadura. Convenio",
+                                            "item": {
+                                                "identificador": "BOE-A-2026-21201",
+                                                "control": "2026\/15731",
+                                                "titulo": "Resoluci\u00f3n de 29 de septiembre de 2026, de la Secretar\u00eda de Estado de Justicia, por la que se publica la Adenda de modificaci\u00f3n y pr\u00f3rroga del Convenio con la Comunidad Aut\u00f3noma de Extremadura, para el uso de la aplicaci\u00f3n inform\u00e1tica JARA.",
+                                                "url_pdf": {
+                                                    "szBytes": "205027",
+                                                    "szKBytes": "200",
+                                                    "pagina_inicial": "136077",
+                                                    "pagina_final": "136079",
+                                                    "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21201.pdf"
+                                                },
+                                                "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21201",
+                                                "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21201"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Convenios",
+                                            "item": {
+                                                "identificador": "BOE-A-2026-21202",
+                                                "control": "2026\/15616",
+                                                "titulo": "Resoluci\u00f3n de 7 de octubre de 2026, del Centro de Estudios Pol\u00edticos y Constitucionales, por la que se publica el Convenio con la Fundaci\u00f3n Universidad de Oviedo, para la coedici\u00f3n y difusi\u00f3n de la revista electr\u00f3nica Historia Constitucional durante 2026 y 2027.",
+                                                "url_pdf": {
+                                                    "szBytes": "221495",
+                                                    "szKBytes": "216",
+                                                    "pagina_inicial": "136080",
+                                                    "pagina_final": "136083",
+                                                    "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21202.pdf"
+                                                },
+                                                "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21202",
+                                                "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21202"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Cuerpo de Letrados de la Administraci\u00f3n de Justicia",
+                                            "item": {
+                                                "identificador": "BOE-A-2026-21203",
+                                                "control": "2026\/15537",
+                                                "titulo": "Resoluci\u00f3n de 1 de octubre de 2026, de la Secretar\u00eda General para la Innovaci\u00f3n y Calidad del Servicio P\u00fablico de Justicia, por la que se resuelven solicitudes de letradas y letrados de la Administraci\u00f3n de Justicia sobre reconocimiento del m\u00e9rito preferente del conocimiento oral y escrito de la lengua oficial y del derecho propio de determinadas comunidades aut\u00f3nomas, a efectos de concursos de traslados.",
+                                                "url_pdf": {
+                                                    "szBytes": "230647",
+                                                    "szKBytes": "225",
+                                                    "pagina_inicial": "136084",
+                                                    "pagina_final": "136086",
+                                                    "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21203.pdf"
+                                                },
+                                                "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21203",
+                                                "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21203"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Recursos",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2026-21204",
+                                                    "control": "2026\/15348",
+                                                    "titulo": "Resoluci\u00f3n de 16 de septiembre de 2026, de la Direcci\u00f3n General para la Eficiencia del Servicio P\u00fablico de Justicia, por la que se emplaza a las personas interesadas en el recurso contencioso-administrativo 145\/2026, interpuesto ante el Tribunal Central de Instancia, Secci\u00f3n de lo Contencioso-Administrativo, Plaza n.\u00ba 3.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191501",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "136087",
+                                                        "pagina_final": "136087",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21204.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21204",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21204"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2026-21205",
+                                                    "control": "2026\/15349",
+                                                    "titulo": "Resoluci\u00f3n de 24 de septiembre de 2026, de la Direcci\u00f3n General para la Eficiencia del Servicio P\u00fablico de Justicia, por la que se emplaza a las personas interesadas en el recurso contencioso-administrativo 147\/2026, interpuesto ante el Tribunal Central de Instancia, Secci\u00f3n de lo Contencioso-Administrativo, Plaza n.\u00ba 12.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191480",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "136088",
+                                                        "pagina_final": "136088",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21205.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21205",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21205"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "5140",
+                                    "nombre": "MINISTERIO DE HACIENDA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Convenios",
+                                            "item": {
+                                                "identificador": "BOE-A-2026-21206",
+                                                "control": "2026\/15427",
+                                                "titulo": "Resoluci\u00f3n de 5 de octubre de 2026, de la Direcci\u00f3n General del Catastro, por la que se publica el Convenio con el Colegio de Abogados de Terrassa.",
+                                                "url_pdf": {
+                                                    "szBytes": "235473",
+                                                    "szKBytes": "230",
+                                                    "pagina_inicial": "136089",
+                                                    "pagina_final": "136096",
+                                                    "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21206.pdf"
+                                                },
+                                                "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21206",
+                                                "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21206"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "7320",
+                                    "nombre": "MINISTERIO DEL INTERIOR",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Asociaciones de utilidad p\u00fablica",
+                                            "item": {
+                                                "identificador": "BOE-A-2026-21207",
+                                                "control": "2026\/15352",
+                                                "titulo": "Orden INT\/1075\/2026, de 30 de septiembre, por la que se declaran de utilidad p\u00fablica diversas asociaciones.",
+                                                "url_pdf": {
+                                                    "szBytes": "216953",
+                                                    "szKBytes": "212",
+                                                    "pagina_inicial": "136097",
+                                                    "pagina_final": "136098",
+                                                    "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21207.pdf"
+                                                },
+                                                "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21207",
+                                                "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21207"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Condecoraciones",
+                                            "item": {
+                                                "identificador": "BOE-A-2026-21208",
+                                                "control": "2026\/15679",
+                                                "titulo": "Orden INT\/1076\/2026, de 7 de octubre, por la que se modifica la Orden INT\/1409\/2011, de 10 de mayo, por la que se crea la Condecoraci\u00f3n a la Dedicaci\u00f3n al Servicio Policial, en sus diferentes categor\u00edas, en el Cuerpo Nacional de Polic\u00eda.",
+                                                "url_pdf": {
+                                                    "szBytes": "212141",
+                                                    "szKBytes": "207",
+                                                    "pagina_inicial": "136099",
+                                                    "pagina_final": "136102",
+                                                    "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21208.pdf"
+                                                },
+                                                "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21208",
+                                                "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21208"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Subvenciones",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2026-21209",
+                                                    "control": "2026\/15480",
+                                                    "titulo": "Resoluci\u00f3n de 1 de octubre de 2026, de la Direcci\u00f3n General de Pol\u00edtica Interior, por la que se publican las subvenciones estatales anuales para atender los gastos de funcionamiento ordinario a las diferentes formaciones pol\u00edticas con representaci\u00f3n en el Congreso de los Diputados, durante el tercer trimestre del ejercicio 2026.",
+                                                    "url_pdf": {
+                                                        "szBytes": "209284",
+                                                        "szKBytes": "204",
+                                                        "pagina_inicial": "136103",
+                                                        "pagina_final": "136104",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21209.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21209",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21209"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2026-21210",
+                                                    "control": "2026\/15481",
+                                                    "titulo": "Resoluci\u00f3n de 1 de octubre de 2026, de la Direcci\u00f3n General de Pol\u00edtica Interior, por la que se publican las subvenciones estatales anuales para sufragar los gastos de seguridad a las diferentes formaciones pol\u00edticas con representaci\u00f3n en el Congreso de los Diputados, durante el tercer trimestre del ejercicio 2026.",
+                                                    "url_pdf": {
+                                                        "szBytes": "208181",
+                                                        "szKBytes": "203",
+                                                        "pagina_inicial": "136105",
+                                                        "pagina_final": "136106",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21210.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21210",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21210"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9586",
+                                    "nombre": "MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Comunidad de Castilla y Le\u00f3n. Convenio",
+                                            "item": {
+                                                "identificador": "BOE-A-2026-21211",
+                                                "control": "2026\/15542",
+                                                "titulo": "Resoluci\u00f3n de 4 de septiembre de 2026, del Instituto Geogr\u00e1fico Nacional, por la que se publica el Convenio con la Universidad de Salamanca, para el desarrollo de programas de cooperaci\u00f3n educativa.",
+                                                "url_pdf": {
+                                                    "szBytes": "273805",
+                                                    "szKBytes": "267",
+                                                    "pagina_inicial": "136107",
+                                                    "pagina_final": "136116",
+                                                    "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21211.pdf"
+                                                },
+                                                "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21211",
+                                                "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21211"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Comunidad de Madrid. Convenio",
+                                            "item": {
+                                                "identificador": "BOE-A-2026-21212",
+                                                "control": "2026\/15353",
+                                                "titulo": "Resoluci\u00f3n de 16 de julio de 2026, de la Entidad P\u00fablica Empresarial Administrador de Infraestructuras Ferroviarias, por la que se publica el Convenio con la Universidad de Alcal\u00e1 y Adif-Alta Velocidad, para la realizaci\u00f3n de pr\u00e1cticas externas.",
+                                                "url_pdf": {
+                                                    "szBytes": "342534",
+                                                    "szKBytes": "335",
+                                                    "pagina_inicial": "136117",
+                                                    "pagina_final": "136132",
+                                                    "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21212.pdf"
+                                                },
+                                                "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21212",
+                                                "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21212"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Comunitat Valenciana. Convenio",
+                                            "item": {
+                                                "identificador": "BOE-A-2026-21213",
+                                                "control": "2026\/15543",
+                                                "titulo": "Resoluci\u00f3n de 9 de septiembre de 2026, del Instituto Geogr\u00e1fico Nacional, por la que se publica la Adenda de pr\u00f3rroga del Convenio con la Generalitat Valenciana, para integrarse en el Sistema Cartogr\u00e1fico Nacional.",
+                                                "url_pdf": {
+                                                    "szBytes": "205342",
+                                                    "szKBytes": "201",
+                                                    "pagina_inicial": "136133",
+                                                    "pagina_final": "136135",
+                                                    "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21213.pdf"
+                                                },
+                                                "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21213",
+                                                "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21213"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Convenios",
+                                            "item": {
+                                                "identificador": "BOE-A-2026-21214",
+                                                "control": "2026\/15482",
+                                                "titulo": "Resoluci\u00f3n de 29 de julio de 2026, de la Entidad P\u00fablica Empresarial Administrador de Infraestructuras Ferroviarias, por la que se publica el Convenio con la Universidad Antonio de Nebrija y Adif-Alta Velocidad, para la realizaci\u00f3n de pr\u00e1cticas externas.",
+                                                "url_pdf": {
+                                                    "szBytes": "271529",
+                                                    "szKBytes": "265",
+                                                    "pagina_inicial": "136136",
+                                                    "pagina_final": "136145",
+                                                    "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21214.pdf"
+                                                },
+                                                "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21214",
+                                                "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21214"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Titulaciones aeron\u00e1uticas",
+                                            "item": {
+                                                "identificador": "BOE-A-2026-21215",
+                                                "control": "2026\/15354",
+                                                "titulo": "Resoluci\u00f3n de 9 de septiembre de 2026, de la Direcci\u00f3n de la Agencia Estatal de Seguridad A\u00e9rea, por la que se establecen las bases para el desarrollo de los ex\u00e1menes electr\u00f3nicos de conocimientos te\u00f3ricos para la obtenci\u00f3n de licencias de mantenimiento de aeronaves.",
+                                                "url_pdf": {
+                                                    "szBytes": "243323",
+                                                    "szKBytes": "238",
+                                                    "pagina_inicial": "136146",
+                                                    "pagina_final": "136153",
+                                                    "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21215.pdf"
+                                                },
+                                                "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21215",
+                                                "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21215"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9590",
+                                    "nombre": "MINISTERIO DE EDUCACI\u00d3N, FORMACI\u00d3N PROFESIONAL Y DEPORTES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Convenios",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2026-21216",
+                                                    "control": "2026\/15545",
+                                                    "titulo": "Resoluci\u00f3n de 1 de octubre de 2026, de la Secretar\u00eda General T\u00e9cnica, por la que se publica el Convenio con Endesa Generaci\u00f3n, SA, para el desarrollo de un proyecto art\u00edstico de inter\u00e9s educativo, cultural y de integraci\u00f3n paisaj\u00edstica.",
+                                                    "url_pdf": {
+                                                        "szBytes": "245492",
+                                                        "szKBytes": "240",
+                                                        "pagina_inicial": "136154",
+                                                        "pagina_final": "136161",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21216.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21216",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21216"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2026-21217",
+                                                    "control": "2026\/15547",
+                                                    "titulo": "Resoluci\u00f3n de 6 de octubre de 2026, de la Secretar\u00eda General T\u00e9cnica, por la que se publica el Convenio con la Fundaci\u00f3n Hispanoamericana Santiago de Cali, para la constituci\u00f3n del \u00abColegio Hispanoamericano\u00bb como centro de convenio en Colombia.",
+                                                    "url_pdf": {
+                                                        "szBytes": "232018",
+                                                        "szKBytes": "227",
+                                                        "pagina_inicial": "136162",
+                                                        "pagina_final": "136168",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21217.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21217",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21217"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "nombre": "Ense\u00f1anzas deportivas",
+                                            "item": {
+                                                "identificador": "BOE-A-2026-21218",
+                                                "control": "2026\/15355",
+                                                "titulo": "Orden EFD\/1077\/2026, de 1 de octubre, por la que se autoriza a impartir las ense\u00f1anzas deportivas del t\u00edtulo de T\u00e9cnico Deportivo Superior de Pirag\u00fcismo de Aguas Tranquilas en el Centro Superior de Ense\u00f1anzas Deportivas.",
+                                                "url_pdf": {
+                                                    "szBytes": "199147",
+                                                    "szKBytes": "194",
+                                                    "pagina_inicial": "136169",
+                                                    "pagina_final": "136170",
+                                                    "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21218.pdf"
+                                                },
+                                                "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21218",
+                                                "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21218"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9573",
+                                    "nombre": "MINISTERIO DE TRABAJO Y ECONOM\u00cdA SOCIAL",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Comunidad Aut\u00f3noma de Galicia. Convenio",
+                                            "item": {
+                                                "identificador": "BOE-A-2026-21219",
+                                                "control": "2026\/15364",
+                                                "titulo": "Resoluci\u00f3n de 30 de septiembre de 2026, de la Secretar\u00eda General T\u00e9cnica, por la que se publica la Adenda para la pr\u00f3rroga del Convenio con la Comunidad Aut\u00f3noma de Galicia, para el funcionamiento por medios electr\u00f3nicos del registro de empresas acreditadas en el sector de la construcci\u00f3n.",
+                                                "url_pdf": {
+                                                    "szBytes": "203922",
+                                                    "szKBytes": "199",
+                                                    "pagina_inicial": "136171",
+                                                    "pagina_final": "136173",
+                                                    "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21219.pdf"
+                                                },
+                                                "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21219",
+                                                "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21219"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9591",
+                                    "nombre": "MINISTERIO DE INDUSTRIA Y TURISMO",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Convenios",
+                                            "item": {
+                                                "identificador": "BOE-A-2026-21220",
+                                                "control": "2026\/15548",
+                                                "titulo": "Resoluci\u00f3n de 30 de septiembre de 2026, de la Secretar\u00eda de Estado de Industria, por la que se publica el Convenio con Asesores Fiscales Tributarios Castilla-La Mancha, para el establecimiento de Puntos de Atenci\u00f3n al Emprendedor, integrados en la Red CIRCE.",
+                                                "url_pdf": {
+                                                    "szBytes": "248512",
+                                                    "szKBytes": "243",
+                                                    "pagina_inicial": "136174",
+                                                    "pagina_final": "136182",
+                                                    "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21220.pdf"
+                                                },
+                                                "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21220",
+                                                "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21220"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "3120",
+                                    "nombre": "MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACI\u00d3N",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Delegaci\u00f3n de competencias",
+                                            "item": {
+                                                "identificador": "BOE-A-2026-21221",
+                                                "control": "2026\/15551",
+                                                "titulo": "Orden APA\/1078\/2026, de 5 de octubre, por la que se modifica la Orden APA\/1511\/2024, de 2 de diciembre, de fijaci\u00f3n de l\u00edmites para administrar ciertos gastos y de delegaci\u00f3n de competencias.",
+                                                "url_pdf": {
+                                                    "szBytes": "194990",
+                                                    "szKBytes": "190",
+                                                    "pagina_inicial": "136183",
+                                                    "pagina_final": "136183",
+                                                    "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21221.pdf"
+                                                },
+                                                "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21221",
+                                                "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21221"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9575",
+                                    "nombre": "MINISTERIO PARA LA TRANSICI\u00d3N ECOL\u00d3GICA Y EL RETO DEMOGR\u00c1FICO",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Convenios",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2026-21222",
+                                                    "control": "2026\/15555",
+                                                    "titulo": "Resoluci\u00f3n de 30 de septiembre de 2026, de la Confederaci\u00f3n Hidrogr\u00e1fica del Guadalquivir, O.A., por la que se publica el Convenio con el Ayuntamiento de Ja\u00e9n, para el proyecto, ejecuci\u00f3n y financiaci\u00f3n de las obras del \u00abProyecto de intervenci\u00f3n en el \u00e1mbito de los ca\u00f1ones de R\u00edo Fr\u00edo en Ja\u00e9n\u00bb.",
+                                                    "url_pdf": {
+                                                        "szBytes": "246985",
+                                                        "szKBytes": "241",
+                                                        "pagina_inicial": "136184",
+                                                        "pagina_final": "136190",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21222.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21222",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21222"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2026-21223",
+                                                    "control": "2026\/15556",
+                                                    "titulo": "Resoluci\u00f3n de 2 de octubre de 2026, de la Confederaci\u00f3n Hidrogr\u00e1fica del Mi\u00f1o-Sil, O.A., por la que se publica el Convenio con el Ayuntamiento de As Neves, para la financiaci\u00f3n, ejecuci\u00f3n y entrega de las obras de construcci\u00f3n de varias infraestructuras de depuraci\u00f3n, en As Neves (Pontevedra).",
+                                                    "url_pdf": {
+                                                        "szBytes": "250286",
+                                                        "szKBytes": "244",
+                                                        "pagina_inicial": "136191",
+                                                        "pagina_final": "136198",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21223.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21223",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21223"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "nombre": "Impacto ambiental",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2026-21224",
+                                                    "control": "2026\/15369",
+                                                    "titulo": "Resoluci\u00f3n de 16 de septiembre de 2026, de la Direcci\u00f3n General de Calidad y Evaluaci\u00f3n Ambiental, por la que se formula declaraci\u00f3n de impacto ambiental del proyecto \u00abParque e\u00f3lico \"Muracais\", de 52,8 MW de potencia instalada, y su infraestructura de evacuaci\u00f3n, en la provincia de Lugo\u00bb.",
+                                                    "url_pdf": {
+                                                        "szBytes": "1841780",
+                                                        "szKBytes": "1799",
+                                                        "pagina_inicial": "136199",
+                                                        "pagina_final": "136217",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21224.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21224",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21224"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2026-21225",
+                                                    "control": "2026\/15370",
+                                                    "titulo": "Resoluci\u00f3n de 18 de septiembre de 2026, de la Direcci\u00f3n General de Calidad y Evaluaci\u00f3n Ambiental, por la que se formula declaraci\u00f3n de impacto ambiental del proyecto \u00abParque e\u00f3lico \"Alamoceiros\", parque e\u00f3lico \"Chamarrapio\" y parque e\u00f3lico \"Xubrintas\", y parte de su infraestructura de evacuaci\u00f3n, en la provincia de Pontevedra\u00bb.",
+                                                    "url_pdf": {
+                                                        "szBytes": "1526637",
+                                                        "szKBytes": "1491",
+                                                        "pagina_inicial": "136218",
+                                                        "pagina_final": "136240",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21225.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21225",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21225"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "nombre": "Instalaciones el\u00e9ctricas",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2026-21226",
+                                                    "control": "2026\/15367",
+                                                    "titulo": "Resoluci\u00f3n de 7 de septiembre de 2026, de la Direcci\u00f3n General de Pol\u00edtica Energ\u00e9tica y Minas, por la que se otorga a Mulhac\u00e9n Solar, SLU, autorizaci\u00f3n administrativa previa para el proyecto del m\u00f3dulo de almacenamiento energ\u00e9tico Mulhac\u00e9n, con una potencia instalada de 21,56 MW, y su infraestructura de evacuaci\u00f3n para su hibridaci\u00f3n con la instalaci\u00f3n solar fotovoltaica Mulhac\u00e9n Solar, de 70 MW de potencia instalada, en Esquivias (Toledo).",
+                                                    "url_pdf": {
+                                                        "szBytes": "218729",
+                                                        "szKBytes": "214",
+                                                        "pagina_inicial": "136241",
+                                                        "pagina_final": "136245",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21226.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21226",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21226"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2026-21227",
+                                                    "control": "2026\/15368",
+                                                    "titulo": "Resoluci\u00f3n de 9 de septiembre de 2026, de la Direcci\u00f3n General de Pol\u00edtica Energ\u00e9tica y Minas, por la que se otorga a Azor Solar, SLU, autorizaci\u00f3n administrativa previa para el proyecto de almacenamiento con bater\u00edas Azor Solar, de 68,51 MW de potencia instalada, y su infraestructura de evacuaci\u00f3n, para su hibridaci\u00f3n con la instalaci\u00f3n solar fotovoltaica existente Azor Solar, de 64,02 MW de potencia instalada, en Paracuellos de Jarama (Madrid).",
+                                                    "url_pdf": {
+                                                        "szBytes": "221815",
+                                                        "szKBytes": "217",
+                                                        "pagina_inicial": "136246",
+                                                        "pagina_final": "136250",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21227.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21227",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21227"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9589",
+                                    "nombre": "MINISTERIO DE ECONOM\u00cdA, COMERCIO Y EMPRESA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Convenios",
+                                            "item": {
+                                                "identificador": "BOE-A-2026-21228",
+                                                "control": "2026\/15489",
+                                                "titulo": "Resoluci\u00f3n de 1 de octubre de 2026, del Instituto Nacional de Estad\u00edstica, por la que se publica el Convenio con el Consejo General del Notariado, para la realizaci\u00f3n de operaciones estad\u00edsticas relativas a los bienes muebles y estimaciones de las cuentas nacionales.",
+                                                "url_pdf": {
+                                                    "szBytes": "229611",
+                                                    "szKBytes": "224",
+                                                    "pagina_inicial": "136251",
+                                                    "pagina_final": "136256",
+                                                    "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21228.pdf"
+                                                },
+                                                "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21228",
+                                                "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21228"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Deuda del Estado",
+                                            "item": {
+                                                "identificador": "BOE-A-2026-21229",
+                                                "control": "2026\/15738",
+                                                "titulo": "Resoluci\u00f3n de 9 de octubre de 2026, de la Direcci\u00f3n General del Tesoro y Pol\u00edtica Financiera, por la que se disponen determinadas emisiones de Bonos y Obligaciones del Estado en el mes de octubre de 2026 y se convocan las correspondientes subastas.",
+                                                "url_pdf": {
+                                                    "szBytes": "304559",
+                                                    "szKBytes": "297",
+                                                    "pagina_inicial": "136257",
+                                                    "pagina_final": "136263",
+                                                    "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21229.pdf"
+                                                },
+                                                "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21229",
+                                                "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21229"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9588",
+                                    "nombre": "MINISTERIO DE DERECHOS SOCIALES, CONSUMO Y AGENDA 2030",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Comunidad Aut\u00f3noma de La Rioja. Convenio",
+                                            "item": {
+                                                "identificador": "BOE-A-2026-21230",
+                                                "control": "2026\/15560",
+                                                "titulo": "Resoluci\u00f3n de 5 de octubre de 2026, de la Direcci\u00f3n General de Ordenaci\u00f3n del Juego, por la que se publica la Adenda de pr\u00f3rroga del Convenio con la Comunidad Aut\u00f3noma de La Rioja, para la interconexi\u00f3n automatizada de los correspondientes registros de interdicci\u00f3n de acceso al juego a trav\u00e9s de una integraci\u00f3n funcional y organizativa.",
+                                                "url_pdf": {
+                                                    "szBytes": "203083",
+                                                    "szKBytes": "198",
+                                                    "pagina_inicial": "136264",
+                                                    "pagina_final": "136266",
+                                                    "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21230.pdf"
+                                                },
+                                                "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21230",
+                                                "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21230"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Subvenciones",
+                                            "item": {
+                                                "identificador": "BOE-A-2026-21231",
+                                                "control": "2026\/15623",
+                                                "titulo": "Orden DCA\/1079\/2026, de 7 de octubre, por la que se establecen las bases reguladoras para la concesi\u00f3n de subvenciones a entidades locales para la erradicaci\u00f3n de asentamientos irregulares de personas trabajadoras temporeras.",
+                                                "url_pdf": {
+                                                    "szBytes": "332319",
+                                                    "szKBytes": "325",
+                                                    "pagina_inicial": "136267",
+                                                    "pagina_final": "136289",
+                                                    "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21231.pdf"
+                                                },
+                                                "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21231",
+                                                "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21231"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9565",
+                                    "nombre": "MINISTERIO DE CIENCIA, INNOVACI\u00d3N Y UNIVERSIDADES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Convenios",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2026-21232",
+                                                    "control": "2026\/15739",
+                                                    "titulo": "Resoluci\u00f3n de 29 de septiembre de 2026, del Consorcio Centro de Investigaci\u00f3n Biom\u00e9dica en Red, por la que se publica el Convenio con la Fundaci\u00f3 Institut d\u2019Investigaci\u00f3 en Ci\u00e8ncies de la Salut Germans Trias i Pujol, para la promoci\u00f3n e impulso de la investigaci\u00f3n en el \u00e1rea tem\u00e1tica de Enfermedades Respiratorias.",
+                                                    "url_pdf": {
+                                                        "szBytes": "252112",
+                                                        "szKBytes": "246",
+                                                        "pagina_inicial": "136290",
+                                                        "pagina_final": "136297",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21232.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21232",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21232"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2026-21233",
+                                                    "control": "2026\/15373",
+                                                    "titulo": "Resoluci\u00f3n de 30 de septiembre de 2026, del Instituto de Salud Carlos III, O.A., M.P., por la que se publica el Convenio con la Universidad CEU San Pablo, M.P., para la realizaci\u00f3n de pr\u00e1cticas acad\u00e9micas externas, trabajos de fin de grado, trabajos de fin de m\u00e1ster y estancias de doctorado.",
+                                                    "url_pdf": {
+                                                        "szBytes": "323101",
+                                                        "szKBytes": "316",
+                                                        "pagina_inicial": "136298",
+                                                        "pagina_final": "136312",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21233.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21233",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21233"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "4620",
+                                    "nombre": "MINISTERIO DE IGUALDAD",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Ciudad de Ceuta. Convenio",
+                                            "item": {
+                                                "identificador": "BOE-A-2026-21234",
+                                                "control": "2026\/15561",
+                                                "titulo": "Resoluci\u00f3n de 4 de octubre de 2026, de la Delegaci\u00f3n del Gobierno contra la Violencia de G\u00e9nero, por la que se publica el Convenio con la Ciudad de Ceuta, para la prestaci\u00f3n del servicio telef\u00f3nico de informaci\u00f3n, atenci\u00f3n y asesoramiento jur\u00eddico en materia de violencia contra las mujeres.",
+                                                "url_pdf": {
+                                                    "szBytes": "240475",
+                                                    "szKBytes": "235",
+                                                    "pagina_inicial": "136313",
+                                                    "pagina_final": "136320",
+                                                    "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21234.pdf"
+                                                },
+                                                "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21234",
+                                                "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21234"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9579",
+                                    "nombre": "MINISTERIO DE INCLUSI\u00d3N, SEGURIDAD SOCIAL Y MIGRACIONES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Convenios",
+                                            "item": {
+                                                "identificador": "BOE-A-2026-21235",
+                                                "control": "2026\/15491",
+                                                "titulo": "Resoluci\u00f3n de 5 de octubre de 2026, de la Secretar\u00eda General T\u00e9cnica, por la que se publica la Adenda de pr\u00f3rroga y modificaci\u00f3n del Convenio entre el Instituto Nacional de la Seguridad Social y la Diputaci\u00f3n Foral de Gipuzkoa, en materia de cesi\u00f3n de informaci\u00f3n tributaria.",
+                                                "url_pdf": {
+                                                    "szBytes": "278893",
+                                                    "szKBytes": "272",
+                                                    "pagina_inicial": "136321",
+                                                    "pagina_final": "136334",
+                                                    "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21235.pdf"
+                                                },
+                                                "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21235",
+                                                "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21235"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "1310",
+                                    "nombre": "JUNTA ELECTORAL CENTRAL",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Cargos representativos locales",
+                                            "item": {
+                                                "identificador": "BOE-A-2026-21236",
+                                                "control": "2026\/15627",
+                                                "titulo": "Resoluci\u00f3n de 5 de octubre de 2026, de la Presidencia de la Junta Electoral Central, por la que se anuncia propuesta de designaci\u00f3n de concejal del Ayuntamiento de Alcollar\u00edn (C\u00e1ceres), en aplicaci\u00f3n de lo previsto en el art\u00edculo 182.2 de la Ley Org\u00e1nica del R\u00e9gimen Electoral General, de conformidad con lo dispuesto en el n\u00famero 2 del apartado segundo de la Instrucci\u00f3n 1\/2025, de 30 de enero, de la Junta Electoral Central, sobre sustituci\u00f3n de cargos representativos locales.",
+                                                "url_pdf": {
+                                                    "szBytes": "192000",
+                                                    "szKBytes": "188",
+                                                    "pagina_inicial": "136335",
+                                                    "pagina_final": "136335",
+                                                    "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21236.pdf"
+                                                },
+                                                "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21236",
+                                                "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21236"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "1020",
+                                    "nombre": "BANCO DE ESPA\u00d1A",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Pr\u00e9stamos hipotecarios. \u00cdndices",
+                                            "item": {
+                                                "identificador": "BOE-A-2026-21237",
+                                                "control": "2026\/15375",
+                                                "titulo": "Resoluci\u00f3n de 1 de octubre de 2026, del Banco de Espa\u00f1a, por la que se publican los \u00edndices y tipos de referencia aplicables para el c\u00e1lculo del valor de mercado en la compensaci\u00f3n por riesgo de tipo de inter\u00e9s de los pr\u00e9stamos hipotecarios, as\u00ed como para el c\u00e1lculo del diferencial que se ha de aplicar para la obtenci\u00f3n del valor de mercado de los pr\u00e9stamos o cr\u00e9ditos que se cancelan anticipadamente.",
+                                                "url_pdf": {
+                                                    "szBytes": "200912",
+                                                    "szKBytes": "196",
+                                                    "pagina_inicial": "136336",
+                                                    "pagina_final": "136336",
+                                                    "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21237.pdf"
+                                                },
+                                                "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21237",
+                                                "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21237"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "310",
+                                    "nombre": "UNIVERSIDADES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Encomienda de gesti\u00f3n",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2026-21238",
+                                                    "control": "2026\/15382",
+                                                    "titulo": "Resoluci\u00f3n de 30 de septiembre de 2026, de la Universidad Nacional de Educaci\u00f3n a Distancia, por la que se publica el Acuerdo de encomienda de gesti\u00f3n al Consorcio Universitario del Centro Asociado a la Universidad Nacional de Educaci\u00f3n a Distancia en Lugo, para el funcionamiento de la oficina verde y otras iniciativas del Observatorio ODS.",
+                                                    "url_pdf": {
+                                                        "szBytes": "271893",
+                                                        "szKBytes": "266",
+                                                        "pagina_inicial": "136337",
+                                                        "pagina_final": "136350",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21238.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21238",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21238"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2026-21239",
+                                                    "control": "2026\/15383",
+                                                    "titulo": "Resoluci\u00f3n de 1 de octubre de 2026, de la Universidad Nacional de Educaci\u00f3n a Distancia, por la que se publica el Acuerdo de encomienda de gesti\u00f3n al Consorcio Universitario del Centro Asociado a la Universidad Nacional de Educaci\u00f3n a Distancia de Pontevedra, para la promoci\u00f3n y difusi\u00f3n de la identidad corporativa.",
+                                                    "url_pdf": {
+                                                        "szBytes": "247239",
+                                                        "szKBytes": "241",
+                                                        "pagina_inicial": "136351",
+                                                        "pagina_final": "136358",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21239.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21239",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21239"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "nombre": "Planes de estudios",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2026-21240",
+                                                    "control": "2026\/15377",
+                                                    "titulo": "Resoluci\u00f3n de 22 de septiembre de 2026, de la Universidad Cat\u00f3lica de Valencia San Vicente M\u00e1rtir, por la que se publica la modificaci\u00f3n del plan de estudios de Graduado o Graduada en Odontolog\u00eda.",
+                                                    "url_pdf": {
+                                                        "szBytes": "301775",
+                                                        "szKBytes": "295",
+                                                        "pagina_inicial": "136359",
+                                                        "pagina_final": "136362",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21240.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21240",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21240"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2026-21241",
+                                                    "control": "2026\/15378",
+                                                    "titulo": "Resoluci\u00f3n de 22 de septiembre de 2026, de la Universidad Cat\u00f3lica de Valencia San Vicente M\u00e1rtir, por la que se publica la modificaci\u00f3n del plan de estudios de M\u00e1ster Universitario en Rehabilitaci\u00f3n del Enfermo Neurol\u00f3gico.",
+                                                    "url_pdf": {
+                                                        "szBytes": "228794",
+                                                        "szKBytes": "223",
+                                                        "pagina_inicial": "136363",
+                                                        "pagina_final": "136364",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21241.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21241",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21241"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2026-21242",
+                                                    "control": "2026\/15379",
+                                                    "titulo": "Resoluci\u00f3n de 23 de septiembre de 2026, de la Universidad Nacional de Educaci\u00f3n a Distancia, por la que se publica la modificaci\u00f3n del plan de estudios de Graduado o Graduada en Ingenier\u00eda Electr\u00f3nica Industrial y Autom\u00e1tica.",
+                                                    "url_pdf": {
+                                                        "szBytes": "219155",
+                                                        "szKBytes": "214",
+                                                        "pagina_inicial": "136365",
+                                                        "pagina_final": "136366",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21242.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21242",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21242"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2026-21243",
+                                                    "control": "2026\/15492",
+                                                    "titulo": "Resoluci\u00f3n de 25 de septiembre de 2026, de la Universidad de Deusto, por la que se publica el plan de estudios de M\u00e1ster Universitario en Direcci\u00f3n de Centros Educativos: Gesti\u00f3n, Innovaci\u00f3n y Liderazgo.",
+                                                    "url_pdf": {
+                                                        "szBytes": "205375",
+                                                        "szKBytes": "201",
+                                                        "pagina_inicial": "136367",
+                                                        "pagina_final": "136368",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21243.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21243",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21243"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2026-21244",
+                                                    "control": "2026\/15380",
+                                                    "titulo": "Resoluci\u00f3n de 28 de septiembre de 2026, de la Universidad de Navarra, por la que se publica el plan de estudios de M\u00e1ster Universitario en Finanzas\/Master in Finance (MiF).",
+                                                    "url_pdf": {
+                                                        "szBytes": "203950",
+                                                        "szKBytes": "199",
+                                                        "pagina_inicial": "136369",
+                                                        "pagina_final": "136369",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21244.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21244",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21244"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2026-21245",
+                                                    "control": "2026\/15381",
+                                                    "titulo": "Resoluci\u00f3n de 28 de septiembre de 2026, de la Universidad de Navarra, por la que se publica el plan de estudios de M\u00e1ster Universitario en Pr\u00e1ctica Avanzada de Enfermer\u00eda.",
+                                                    "url_pdf": {
+                                                        "szBytes": "208854",
+                                                        "szKBytes": "204",
+                                                        "pagina_inicial": "136370",
+                                                        "pagina_final": "136371",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21245.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21245",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21245"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2026-21246",
+                                                    "control": "2026\/15493",
+                                                    "titulo": "Resoluci\u00f3n de 28 de septiembre de 2026, de la Universidad de Navarra, por la que se publica el plan de estudios de Graduado o Graduada en Biolog\u00eda.",
+                                                    "url_pdf": {
+                                                        "szBytes": "214144",
+                                                        "szKBytes": "209",
+                                                        "pagina_inicial": "136372",
+                                                        "pagina_final": "136373",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21246.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21246",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21246"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2026-21247",
+                                                    "control": "2026\/15494",
+                                                    "titulo": "Resoluci\u00f3n de 28 de septiembre de 2026, de la Universidad de Navarra, por la que se publica el plan de estudios de Graduado o Graduada en Bioqu\u00edmica.",
+                                                    "url_pdf": {
+                                                        "szBytes": "216400",
+                                                        "szKBytes": "211",
+                                                        "pagina_inicial": "136374",
+                                                        "pagina_final": "136375",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21247.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21247",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21247"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2026-21248",
+                                                    "control": "2026\/15495",
+                                                    "titulo": "Resoluci\u00f3n de 28 de septiembre de 2026, de la Universidad de Navarra, por la que se publica el plan de estudios de Graduado o Graduada en Ciencias Ambientales.",
+                                                    "url_pdf": {
+                                                        "szBytes": "214779",
+                                                        "szKBytes": "210",
+                                                        "pagina_inicial": "136376",
+                                                        "pagina_final": "136377",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21248.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21248",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21248"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2026-21249",
+                                                    "control": "2026\/15384",
+                                                    "titulo": "Resoluci\u00f3n de 1 de octubre de 2026, de la Universidad Complutense de Madrid, por la que se publica la modificaci\u00f3n del plan de estudios de Graduado o Graduada en European Studies.",
+                                                    "url_pdf": {
+                                                        "szBytes": "220088",
+                                                        "szKBytes": "215",
+                                                        "pagina_inicial": "136378",
+                                                        "pagina_final": "136379",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21249.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21249",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21249"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "codigo": "T",
+                            "nombre": "T.C. Secci\u00f3n del Tribunal Constitucional",
+                            "departamento": {
+                                "codigo": "1410",
+                                "nombre": "TRIBUNAL CONSTITUCIONAL",
+                                "texto": {
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Sentencias",
+                                            "item": {
+                                                "identificador": "BOE-A-2026-21250",
+                                                "control": "2026\/14998",
+                                                "titulo": "Pleno. Sentencia 59\/2026, de 8 de septiembre de 2026. Recurso de inconstitucionalidad 1301-2024. Interpuesto por el Consejo de Gobierno de la Comunidad Aut\u00f3noma del Pa\u00eds Vasco en relaci\u00f3n con diversos preceptos de la Ley 12\/2023, de 24 de mayo, por el derecho a la vivienda. Competencias en materia de ordenaci\u00f3n del territorio, urbanismo y vivienda: p\u00e9rdida parcial de objeto del proceso y reiteraci\u00f3n de doctrina en cuanto afecta a preceptos legales ya enjuiciados en las SSTC 79\/2024, de 21 de mayo; 26\/2025, de 29 de enero; 17\/2026, de 24 de febrero; 41\/2026, de 26 de mayo, y 53\/2026, de 8 de julio; constitucionalidad de los preceptos legales que contienen unas definiciones supeditadas a las establecidas por las administraciones competentes en materia de vivienda, enuncian las medidas que las administraciones p\u00fablicas pueden adoptar para favorecer el acceso a la vivienda, y fijan el criterio temporal de aplicaci\u00f3n del r\u00e9gimen de arrendamientos de grandes tenedores en zonas tensionadas. Votos particulares.",
+                                                "url_pdf": {
+                                                    "szBytes": "299049",
+                                                    "szKBytes": "292",
+                                                    "pagina_inicial": "136380",
+                                                    "pagina_final": "136397",
+                                                    "texto": "https:\/\/www.boe.es\/boe\/dias\/2026\/10\/12\/pdfs\/BOE-A-2026-21250.pdf"
+                                                },
+                                                "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2026-21250",
+                                                "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2026-21250"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
